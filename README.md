@@ -6,5 +6,4 @@
 
 ---
 
-## Descripción del Proyecto
-Este repositorio contiene la solución a la Actividad 1 en el lenguaje Python usando Programación Orientada a Objetos.
+## Codigo de la Actividad 1
