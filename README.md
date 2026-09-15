@@ -1,6 +1,6 @@
 # Actividad 1: Programacion Orientada a Objetos Grupo 3
 
-* **Universidad:** Universidad Nacional De Colombia
+* **Universidad:** Universidad Nacional De Colombia Sede Medellin
 * **Estudiante:** Franck Sebastian Ospina Sanchez
 * **Docente:** Walter Hugo Arboleda Mazo
 
